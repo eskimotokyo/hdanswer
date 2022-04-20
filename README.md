@@ -16,3 +16,5 @@
 * 测试结果  
 
 ![image](https://user-images.githubusercontent.com/10006400/164177295-46d7ed40-8cd4-45bb-b5c0-1694de1312cb.png)
+
+* [C#版本](https://github.com/eskimotokyo/hdanswer-csharp)
